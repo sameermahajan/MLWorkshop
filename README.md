@@ -10,7 +10,7 @@ sudo docker run -it -p 8888:8888 gcr.io/tensorflow/tensorflow
 
 It also runs jupyter server that you can connect to from your browser using the URL:
 
-http://localhost:8888/?token=<token id>
+http://localhost:8888/?token=(token id)
 
 to start your notebook to begin coding.
 
@@ -22,4 +22,4 @@ sudo docker ps
 
 You can enter the container (for say installing some custom package like scikit-surprise used by one of the programs on recommenders here) by running:
 
-sudo docker exec -it <container id> bash
+sudo docker exec -it (container id) bash
