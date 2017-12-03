@@ -4,15 +4,19 @@ You can download the entire course content (follow along slides, data for hands 
 
 I hope that you continue referring to programs developed here for tools, technologies and techniques (3 Ts) even as you progress through your Deep Learning career! Good Luck!
 
-You can develop and execute all the code with ready made tensorflow docker image from Google Container Registry. You need docker installed on your machine. To run the container:
+You can develop and execute all the code with ready made tensorflow docker image from Google Container Registry. If you have windows machine, you can install virtualbox and deploy ubuntu VM on it. You can also install docker for Windows from: https://docs.docker.com/docker-for-windows/install/ You need docker installed on your ubuntu machine (refer: https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/). 
+
+To run the container:
 
 sudo docker run -it -p 8888:8888 gcr.io/tensorflow/tensorflow
 
-It also runs jupyter server that you can connect to from your browser using the URL:
+It downloads docker image with pre installed  software for this course and runs jupyter server ready  to be connected. At the end it will  say something like:
 
-http://localhost:8888/?token=(token id)
+ Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=a61f16ecb110ea6c5dc73820184b0b53f30ff4184c9ab634
 
-to start your notebook to begin coding.
+Type / copy-paste this URL in your browser to verify that you  can start a IPython notebook and happy coding!
 
 (Note that above jupyter connectivity would also work across machines as long as there is network connectivity between them).
 
