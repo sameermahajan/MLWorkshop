@@ -12,9 +12,9 @@ sudo docker run -it -p 8888:8888 gcr.io/tensorflow/tensorflow
 
 It downloads docker image with pre installed  software for this course and runs jupyter server ready  to be connected. At the end it will  say something like:
 
- Copy/paste this URL into your browser when you connect for the first time,
-    to login with a token:
-        http://localhost:8888/?token=a61f16ecb110ea6c5dc73820184b0b53f30ff4184c9ab634
+	Copy/paste this URL into your browser when you connect for the first time,
+		to login with a token:
+			http://localhost:8888/?token=a61f16ecb110ea6c5dc73820184b0b53f30ff4184c9ab634
 
 Type / copy-paste this URL in your browser to verify that you  can start a IPython notebook and happy coding!
 
