@@ -8,7 +8,7 @@ You can develop and execute all the code with ready made tensorflow docker image
 
 To run the container:
 
-sudo docker run -it -p 8888:8888 gcr.io/tensorflow/tensorflow
+sudo docker run -it -p 8888:8888 tensorflow/tensorflow
 
 It downloads docker image with pre installed  software for this course and runs jupyter server ready  to be connected. At the end it will  say something like:
 
