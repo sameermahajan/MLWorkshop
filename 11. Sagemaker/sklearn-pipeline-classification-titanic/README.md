@@ -2,8 +2,7 @@
 
 ![](pipeline-Sagemaker.png)
 
-<br />
-<br />
+
 ## step 1 : build sklearn pipeline
 Pipeline setup<br />
 ### 1. sklearn data pre-processor model
