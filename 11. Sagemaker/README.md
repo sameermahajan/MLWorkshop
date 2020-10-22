@@ -14,7 +14,7 @@
 2. region and other aws configuational artifacts
 
 ## Data Preparation
-upload the data to S3 bucket<br />
+upload the raw data to S3 bucket<br />
 sagemaker conatiner based training read data only from S3<br />
 
 ## Modelling
@@ -22,6 +22,10 @@ train sagemaker based xgboost model
 
 ## Deployement
 Deploy the xgboost model as an endpoint
+Mention:<br />
+- instance_type : 'ml.m4.xlarge'
+- initial_instance_count : 1
+After this step we have successfully deployed ML model as an Endpoint
 
 ## Evaluation
 1. generate confusion martrix<br />
