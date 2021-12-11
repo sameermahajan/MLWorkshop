@@ -1,6 +1,6 @@
 Here we cover various **Data Plots** namely
 
-- Bar Graph
+- [Bar Graph]("Bar Graph.ipynb")
 - Line Graph
 - Pie Chart
 - Histogram
