@@ -1,7 +1,7 @@
 Here we cover various **Data Plots** namely
 
 - [Bar Graph](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Bar%20Graph.ipynb)
-- [Line Graph[(https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Line%20Graph.ipynb)
+- [Line Graph](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Line%20Graph.ipynb)
 - [Pie Chart](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Pie%20Chart.ipynb)
 - [Histogram](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Histogram.ipynb)
 - [Area Chart](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Area%20Chart.ipynb)
