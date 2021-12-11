@@ -1,6 +1,6 @@
 Here we cover various **Data Plots** namely
 
-- [Bar Graph]("Bar Graph.ipynb")
+- [Bar Graph](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Bar%20Graph.ipynb)
 - Line Graph
 - Pie Chart
 - Histogram
