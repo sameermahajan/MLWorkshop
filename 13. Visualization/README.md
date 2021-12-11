@@ -12,3 +12,5 @@ Here we cover various **Data Plots** namely
 - Pictogram
 - Spline Chart
 - Box Plot
+
+The code to generate these plots in plotly and seaborn is given along with their generated visualizations.
