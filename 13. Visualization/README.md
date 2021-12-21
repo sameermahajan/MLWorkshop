@@ -12,5 +12,6 @@ Here we cover various **Data Plots** namely
 - [Pictogram](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Pictogram.ipynb)
 - [Spline Chart](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Spline%20Chart.ipynb)
 - [Box Plot](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Box%20Plot.ipynb)
+- [Violin Plot](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Violin%20Plot.ipynb)
 
 The code to generate these plots in plotly and seaborn is given along with their generated visualizations.
