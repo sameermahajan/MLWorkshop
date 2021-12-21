@@ -15,3 +15,9 @@ Here we cover various **Data Plots** namely
 - [Violin Plot](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Violin%20Plot.ipynb)
 
 The code to generate these plots in plotly and seaborn is given along with their generated visualizations.
+
+Here is a reference cheat for various methods and attributes to be used:
+
+| Plot type | plotly | seaborn |
+|---|---|---|
+| Simple bar graph | express bar | barplot |
