@@ -16,8 +16,10 @@ Here we cover various **Data Plots** namely
 
 The code to generate these plots in plotly and seaborn is given along with their generated visualizations.
 
-Here is a reference cheat for various methods and attributes to be used:
+Here is a reference cheat sheet for methods and attributes to be used:
 
 | Plot type | plotly | seaborn |
 |---|---|---|
 | Simple bar graph | express bar | barplot |
+| Grouped bar graph | color attribute and barmode=’group’ | hue attribute |
+| Stacked bar graph | color attribute | label and color attributes with multiple plots |
