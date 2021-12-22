@@ -1,3 +1,5 @@
+You can read more about these Data Plots [here](https://www.analyticsvidhya.com/blog/2021/12/12-data-plot-types-for-visualization/)
+
 Here we cover various **Data Plots** namely
 
 - [Bar Graph](https://github.com/sameermahajan/MLWorkshop/blob/master/13.%20Visualization/Bar%20Graph.ipynb)
