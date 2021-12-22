@@ -23,3 +23,20 @@ Here is a reference cheat sheet for methods and attributes to be used:
 | Simple bar graph | express bar | barplot |
 | Grouped bar graph | color attribute and barmode=’group’ | hue attribute |
 | Stacked bar graph | color attribute | label and color attributes with multiple plots |
+| Simple line graph	| express line	| lineplot |
+| Multiple line graph	| color and symbol attributes	| hue attribute |
+| Simple pie chart	| express pie	| matplotlib.pyplot.pie |
+| Exploded pie chart	| graph_objects Pie with pull attribute	| explode attribute |
+| Donut chart	| graph_objects Pie with hole attribute	| Add matplotlib.pyplot.Circle |
+| 3D pie chart	| Use pygooglechart package	| shadow attribute |
+| Normal histogram | express histogram |	histplot |
+| Bimodal histogram	| color attribute	| kdeplot |
+| Area chart	| express area	| matplotlib.pyplot.stackplot |
+| Dot graph	| express scatter	| stripplot |
+| Scatter plot	| express scatter	| scatterplot |
+| Bubble chart	| express scatter with color and size attributes	| scatterplot with size attribute |
+| Radar chart	| express line_polar	| matplotlib.pyplot figure |
+| Pictogram 	| graph_objects Figure having Scatter with marker attribute	| matplotlib.pyplot figure with pywaffle package |
+| Spline chart	| express line with line_shape=’spline’	| Scipy.interpolate.make_interp_spline |
+| Box plot	| express box	| boxplot |
+| Violin Plot	| express violin	| violinplot |
